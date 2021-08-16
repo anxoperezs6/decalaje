@@ -1,0 +1,4 @@
+name: 'decalaje'
+description: 'Esto es un modulo para ayudar en los calculos de decalaje en una pista al aire libre'
+core: 8.x
+type: module

@@ -1,0 +1,7 @@
+decalaje:
+  path: /decalaje
+  defaults:
+    _form: 'Drupal\decalaje\Form\DecalajeForm'
+    _title: 'Decalaje'
+  requirements:
+    _permission: 'access content'
